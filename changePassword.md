@@ -1,7 +1,7 @@
 # Protecting from Account Theft
 Hello,
 if you were linked this message that means that your passwords and/or usernames have been stolen.
-Having to change your passwords after your info getting stolen is complicated so ive tried to simplify it into a step-by-step format.
+Having to change your passwords after your info getting stolen is complicated so I have tried to simplify it into a step-by-step format.
 
 1. Before you take any action, if you still have the program which is stealing your information, uninstall it and delete it's files.
 2. Identify what account's information would have been taken, you can do this by comparing dates you created certain accounts, and which devices you used those acounts on.
