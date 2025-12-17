@@ -1,4 +1,4 @@
-# Chaning your password
+# Changing your password
 Hello,
 if you were linked this message that means that your passwords and/or usernames have been stolen.
 Having to change your passwords after your info getting stolen is complicated so ive tried to simplify it into a step-by-step format.
